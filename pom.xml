@@ -31,29 +31,29 @@
       <testcontainers.version>1.17.6</testcontainers.version>
    </properties>
 
-   <groupId>com.zaxxer</groupId>
+   <groupId>sanmarco-informatica</groupId>
    <artifactId>HikariCP</artifactId>
    <version>5.0.2-SNAPSHOT</version>
    <packaging>bundle</packaging>
 
    <name>HikariCP</name>
    <description>Ultimate JDBC Connection Pool</description>
-   <url>https://github.com/brettwooldridge/HikariCP</url>
+   <url>https://github.com/sanmarco-informatica/HikariCP</url>
 
    <organization>
       <name>Zaxxer.com</name>
-      <url>https://github.com/brettwooldridge</url>
+      <url>https://github.com/sanmarco-informatica</url>
    </organization>
 
    <scm>
-      <connection>scm:git:git@github.com:brettwooldridge/HikariCP.git</connection>
-      <developerConnection>scm:git:git@github.com:brettwooldridge/HikariCP.git</developerConnection>
-      <url>https://github.com/brettwooldridge/HikariCP</url>
+      <connection>scm:git:git@github.com:sanmarco-informatica/HikariCP.git</connection>
+      <developerConnection>scm:git:git@github.com:sanmarco-informatica/HikariCP.git</developerConnection>
+      <url>https://github.com/sanmarco-informatica/HikariCP</url>
       <tag>HEAD</tag>
    </scm>
 
    <issueManagement>
-      <url>https://github.com/brettwooldridge/HikariCP/issues</url>
+      <url>https://github.com/sanmarco-informatica/HikariCP/issues</url>
    </issueManagement>
 
    <licenses>
